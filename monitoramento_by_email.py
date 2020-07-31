@@ -15,6 +15,6 @@ schedule.every(2).minutes.do(send)
 while True:
     schedule.run_pending()
     time.sleep(1)
-#teste
+#teste teste de novo
 
 
