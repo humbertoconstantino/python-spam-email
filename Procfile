@@ -1,0 +1,1 @@
+worker: python monitoramento_by_email.py
